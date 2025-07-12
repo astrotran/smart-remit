@@ -12,7 +12,8 @@ dist/
 build/
 
 # Env variables
-.env
+backend/.env
+backend/.env.txt
 
 # System
 .DS_Store
